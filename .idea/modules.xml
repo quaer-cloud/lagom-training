@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service-api.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service-build.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service-stream-api.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service-stream-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-service-stream-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/account-service-stream-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-cassandra.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-service-locator.iml" filepath="$PROJECT_DIR$/.idea/modules/lagom-internal-meta-project-service-locator.iml" />
+    </modules>
+  </component>
+</project>
